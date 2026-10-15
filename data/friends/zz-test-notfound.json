@@ -1,0 +1,6 @@
+{
+  "name": "Test NoBacklink",
+  "avatar": null,
+  "description": "pr-check 演示：该站没有本站链接，应报未找到回链",
+  "url": "https://example.com/"
+}
