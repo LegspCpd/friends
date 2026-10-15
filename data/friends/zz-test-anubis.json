@@ -1,0 +1,6 @@
+{
+  "name": "Test Anubis",
+  "avatar": null,
+  "description": "pr-check 演示：本站友链页，用于验证 Playwright 能否穿过人机验证抓到内容",
+  "url": "https://blog.legspcpd.top/friends/"
+}
